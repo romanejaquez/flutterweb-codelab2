@@ -1,0 +1,25 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2023-02-16T22:56:00-05:00",
+  "id": "flutterweb-codelab2",
+  "duration": 0,
+  "title": "Flutter Web Codelab (pt. 2) - Firebase Integration: Cloud Firestore",
+  "summary": "Flutter Web Codelab",
+  "source": "flutterweb_codelab2.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "codelab",
+    "markdown"
+  ],
+  "tags": [
+    "web"
+  ],
+  "feedback": "https://romanjustcodes.web.app",
+  "url": "flutterweb-codelab2"
+}
